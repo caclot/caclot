@@ -8,14 +8,10 @@
 
 <div align="center">
 
-# I'm caclot / 裴子衿
+# I'm caclot / 裴子衿 / Profect
 
-**Software Engineering Undergraduate at Zhengzhou University**  
-Building, learning, and collecting interesting ideas along the way.
-
-[![Email](https://img.shields.io/badge/Email-pzjripples%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pzjripples@gmail.com)
-[![Bilibili](https://img.shields.io/badge/Bilibili-caclot-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/512713932?spm_id_from=333.1007.0.0)
-[![GitHub](https://img.shields.io/badge/GitHub-caclot-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/caclot)
+**B.Eng. in Software Engineering, Zhengzhou University**  
+**Incoming M.Sc. in Computer Science student at The University of Hong Kong**
 
 </div>
 
@@ -85,12 +81,15 @@ Building, learning, and collecting interesting ideas along the way.
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-  Connect with me 🤝
+  Contact Me / 联系我 🤝
 </h3>
 
 <p align="center">
   <a href="mailto:pzjripples@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pzjripples%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="mailto:profectus@qq.com">
+    <img src="https://img.shields.io/badge/QQ%20Mail-profectus%40qq.com-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ Mail" />
   </a>
   <a href="https://space.bilibili.com/512713932?spm_id_from=333.1007.0.0">
     <img src="https://img.shields.io/badge/Bilibili-caclot-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
