@@ -1,58 +1,77 @@
-## Hi there 👋
+<div align="center">
 
+# Hi, I'm caclot / 裴子衿
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F79700&size=25&center=true&vCenter=true&width=600&height=100&lines=每一个不曾起舞的日子，都是对生命的辜负;管它真理无限，进一寸有进一寸的欢喜;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs...&hearts;"></a>
+**Software Engineering Undergraduate at Zhengzhou University**  
+Building, learning, and collecting interesting ideas along the way.
+
+[![Email](https://img.shields.io/badge/Email-pzjripples%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pzjripples@gmail.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-caclot-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/512713932?spm_id_from=333.1007.0.0)
+[![GitHub](https://img.shields.io/badge/GitHub-caclot-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/caclot)
+
+</div>
+
+---
+
+## About Me
+
+I'm an undergraduate majoring in Software Engineering at Zhengzhou University.  
+I enjoy turning abstract problems into practical software, exploring fresh tools, and learning how systems are designed from product ideas down to implementation details.
+
+- Currently learning: **Computer Science**, **Software Engineering**, and modern software development workflows.
+- Interested in: **AI agents**, **full-stack development**, **mobile apps**, **developer tools**, and useful automation.
+- Working style: curious, hands-on, and always happy to make small ideas real through code.
+- Location: Beijing, China.
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/UniApp-2B9939?style=for-the-badge&logo=vue.js&logoColor=white" alt="UniApp" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<br>
+## Featured Work
 
+| Project | What it is | Tech |
+| --- | --- | --- |
+| [case-analysis](https://github.com/caclot/case-analysis) | Mobile-side coursework project for Case Analysis and Design. | JavaScript, UniApp |
+| [caclot.github.io](https://github.com/caclot/caclot.github.io) | Personal academic-style homepage and blog. | SCSS, Jekyll |
+| [englishnote](https://github.com/caclot/englishnote) | Notes for English and IELTS learning. | Markdown |
 
+## GitHub Stats
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<div align="center">
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=caclot&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caclot&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<br><br>
+</div>
 
-- Full of passion for life
-- Technologist: I love using Software as a solution for every `Problem`.
-- Student: I’m currently learning `Computer Science` and `Software Engineering`.
-- Like and hope to `learn` various `fresh` and `interesting` things
-- More : You can read [MY CV]().
+## Now
 
-<br><br><br>
+- Building stronger foundations in software engineering.
+- Practicing project design, documentation, and engineering communication.
+- Exploring AI-native development and agent-based workflows.
+- Keeping curiosity alive through books, notes, videos, and small experiments.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Skills
-<br>
-<br><br><br><br><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## Connect
 
+You can reach me through:
 
+- Email: [pzjripples@gmail.com](mailto:pzjripples@gmail.com)
+- Bilibili: [space.bilibili.com/512713932](https://space.bilibili.com/512713932?spm_id_from=333.1007.0.0)
+- GitHub: [github.com/caclot](https://github.com/caclot)
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+---
 
-<p align="left">
-<a href="https://twitter.com/@K12Aadit"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
-<a href="https://facebook.com/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/541515000926306316"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Aadit-Kamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Quora profile" height="30" width="40" /></a>
-</p>
+<div align="center">
 
+Thanks for visiting. May the next repo be a little clearer, faster, and more fun than the last one.
 
-<!--
-**caclot/caclot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
