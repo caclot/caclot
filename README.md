@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F79700&size=25&center=true&vCenter=true&width=700&height=100&lines=每一个不曾起舞的日子，都是对生命的辜负;管它真理无限，进一寸有进一寸的欢喜;Software+Engineering+Student;Active+Learner+and+Builder;Love+to+learn+fresh+and+interesting+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F79700&size=25&center=true&vCenter=true&width=700&height=100&lines=每一个不曾起舞的日子，都是对生命的辜负;管它真理无限，进一寸有进一寸的欢喜;三分钟热度就有三分钟收获;Software+Engineering+Student;Active+Learner+and+Builder;Love+to+learn+fresh+and+interesting+things" alt="Typing SVG" />
   </a>
 </p>
 
