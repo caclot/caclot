@@ -19,13 +19,16 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-</picture>
-
 <br>
 
 I'm an incoming M.Sc. Computer Science student at The University of Hong Kong. I enjoy building practical apps and desktop tools that turn everyday friction into solvable software problems.
+
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="260px">
+</picture>
+
+<br>
+<br>
 
 - Research interests: `LLM alignment`, `audio foundation models`, and `embodied intelligence`.
 - Long-term curiosities: `computational neuroscience`, `brain-inspired computing`, `neuromorphic engineering`, cognitive science, psychology, law, and linguistics.
