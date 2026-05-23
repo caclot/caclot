@@ -25,8 +25,8 @@
 
 <br>
 
-- Software engineering undergraduate at Zhengzhou University; incoming M.Sc. Computer Science student at The University of Hong Kong.
-- I like building practical apps and desktop tools that turn everyday friction into solvable software problems.
+I'm an incoming M.Sc. Computer Science student at The University of Hong Kong. I enjoy building practical apps and desktop tools that turn everyday friction into solvable software problems.
+
 - Research interests: `LLM alignment`, `audio foundation models`, and `embodied intelligence`.
 - Long-term curiosities: `computational neuroscience`, `brain-inspired computing`, `neuromorphic engineering`, cognitive science, psychology, law, and linguistics.
 - Outside code, I enjoy badminton, music, and following whatever question happens to catch my mind.
