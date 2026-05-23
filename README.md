@@ -25,12 +25,12 @@
 
 <br>
 
-- Full of passion for life.
-- Technologist: I love using software as a solution for every `Problem`.
-- Student: I'm currently learning `Computer Science` and `Software Engineering`.
-- Like and hope to `learn` various `fresh` and `interesting` things.
-- Interested in `AI agents`, `full-stack development`, `mobile apps`, `developer tools`, and useful automation.
-- Location: Beijing, China.
+- Software engineering undergraduate at Zhengzhou University; incoming M.Sc. Computer Science student at The University of Hong Kong.
+- I like building practical apps and desktop tools that turn everyday friction into solvable software problems.
+- Research interests: `LLM alignment`, `audio foundation models`, and `embodied intelligence`.
+- Long-term curiosities: `computational neuroscience`, `brain-inspired computing`, `neuromorphic engineering`, cognitive science, psychology, law, and linguistics.
+- Outside code, I enjoy badminton, music, and following whatever question happens to catch my mind.
+- Three minutes of passion can still bring three minutes of growth.
 
 <br clear="right">
 
