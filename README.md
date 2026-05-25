@@ -104,23 +104,13 @@ I’m keeping the tiny rough projects offstage for now, until they become someth
 
 <br>
 
-## GitHub Stats
+## Currently
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=caclot&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caclot&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
-<br>
-
-## Now
-
-- Building stronger foundations in software engineering.
-- Practicing project design, documentation, and engineering communication.
-- Exploring AI-native development and agent-based workflows.
-- Keeping curiosity alive through books, notes, videos, and small experiments.
+- Preparing for my next chapter at HKU Computer Science.
+- Learning software engineering, AI, and the messy craft of turning ideas into working tools.
+- Exploring AI agents, audio foundation models, and embodied intelligence.
+- Building small apps whenever life gives me a problem interesting enough to solve.
+- Following curiosity across music, psychology, cognitive science, neuroscience, law, and language.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -138,9 +128,6 @@ I’m keeping the tiny rough projects offstage for now, until they become someth
   </a>
   <a href="https://space.bilibili.com/512713932?spm_id_from=333.1007.0.0">
     <img src="https://img.shields.io/badge/Bilibili-caclot-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a>
-  <a href="https://github.com/caclot">
-    <img src="https://img.shields.io/badge/GitHub-caclot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
